@@ -4,9 +4,10 @@ MecanicoGPT is an AI-based mechanic buddy that will answer all your mechanical q
 
 ocrmypdf (is based on tesseract-ocr but with PDF support)
   to make readable all the PDF documentation of your car
-  
+
 whisper
   for the speech to text, for the AI input
+
 Coqui.ai
   for the text to speech, for the AI output
   
