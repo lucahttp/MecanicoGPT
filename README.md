@@ -1,4 +1,4 @@
-# MecanicoGPT
+# MecanicoGPT (Mortimer) or MechanicGPT
 MecanicoGPT is an AI-based mechanic buddy that will answer all your mechanical questions about your car
 
 
