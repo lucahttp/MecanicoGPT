@@ -7,6 +7,8 @@ ocrmypdf (is based on tesseract-ocr but with PDF support)
   
 whisper
   for the speech to text, for the AI input
+Coqui.ai
+  for the text to speech, for the AI output
   
 oobabooga (Train LLM with data)
   https://github.com/oobabooga/text-generation-webui
